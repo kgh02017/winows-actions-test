@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xqXFLzVCVMuCRZfkYj7dJ1U65j+u7g72G4bgW7rnftoktHCQUR0IweP+cbNPyNP0kCjMf+ir7mGzaLZdHy4ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\kgh02017\\VSTheme-StarrySky\\src\\StarrySky\\StarrySky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}

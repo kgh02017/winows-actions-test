@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Release\LICENSE.txt
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Release\StarrySky.ico
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Release\StarrySky.dll
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Release\StarrySky.pdb
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Release\StarrySky.vsix
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Release\extension.vsixmanifest
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Release\StarrySky.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Release\_EmptyResource.resources
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Release\StarrySky.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Release\StarrySky.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Release\StarrySky.dll
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Release\StarrySky.pdb
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Release\extension.vsixmanifest
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Release\files.json
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Release\createTemplateManifests.cache

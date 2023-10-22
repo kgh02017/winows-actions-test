@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Debug\LICENSE.txt
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Debug\StarrySky.ico
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Debug\StarrySky.dll
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Debug\StarrySky.pdb
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Debug\StarrySky.vsix
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\bin\Debug\extension.vsixmanifest
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Debug\StarrySky.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Debug\_EmptyResource.resources
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Debug\StarrySky.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Debug\StarrySky.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Debug\StarrySky.dll
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Debug\StarrySky.pdb
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Debug\extension.vsixmanifest
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Debug\files.json
+C:\Users\admin\source\repos\kgh02017\VSTheme-StarrySky\src\StarrySky\obj\Debug\createTemplateManifests.cache
