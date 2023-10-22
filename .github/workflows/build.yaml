@@ -12,22 +12,33 @@ on:
 
 jobs:
   build:
-    runs-on: windows-2022
+    runs-on: windows-latest
     steps:
       # Checkout git repository
       # https://github.com/actions/checkout
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Add msbuild 
+      # Setup msbuild 
       # https://github.com/microsoft/setup-msbuild
-      - name: Add msbuild to PATH
+      - name: Setup msbuild
         uses: microsoft/setup-msbuild@v1.1
-        with:
-          msbuild-architecture: x64
+
+      - name: Setup NuGet
+        uses: NuGet/setup-nuget@v1
+
+      - name: Restore the app
+        run: |
+          msbuild /t:Restore /p:Configuration=Release
 
       - name: Build app for release
         run: |
-          msbuild -t:rebuild -verbosity:diag -property:Configuration=Release
+          msbuild /p:Configuration=Release
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: Apps
+          path: ./src/StarrySky/bin/Release/StarrySky.pkgdef
 
 
